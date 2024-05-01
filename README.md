@@ -2,6 +2,11 @@
 
 This Flutter project is a simple application that fetches and displays character information from the popular TV show Rick and Morty.
 
+
+![Screenshot_1714570125](https://github.com/iamvedantp/rick_and_morty/assets/128803902/6760966c-d925-40bc-8e14-27332a19e488)
+
+
+
 ## Features
 
 - Fetches character data from the Rick and Morty API using GraphQL.
