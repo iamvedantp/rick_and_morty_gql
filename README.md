@@ -1,16 +1,24 @@
-# rick_and_morty
+# Rick and Morty Flutter App
 
-A new Flutter project.
+This Flutter project is a simple application that fetches and displays character information from the popular TV show Rick and Morty.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- Fetches character data from the Rick and Morty API using GraphQL.
+- Displays character names, images, and status.
+- Shows loading indicator while fetching data.
+- Handles error cases gracefully.
 
-A few resources to get you started if this is your first Flutter project:
+## Setup
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+To get started with this project, follow these steps:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Clone this repository to your local machine.
+2. Ensure you have Flutter installed on your machine. If not, follow the instructions [here](https://flutter.dev/docs/get-started/install).
+3. Navigate to the project directory and run `flutter pub get` to install dependencies.
+4. Run the app on an emulator or physical device using `flutter run`.
+
+## Resources
+
+- [Flutter Documentation](https://docs.flutter.dev/) - Learn more about Flutter and how to build Flutter apps.
+- [Rick and Morty API](https://rickandmortyapi.com/graphql) - Explore the API used in this project.
