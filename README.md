@@ -29,17 +29,16 @@ This Flutter project is a simple application that fetches and displays character
    git clone https://github.com/iamvedantp/rick_and_morty.git
    ```
 2. Navigate to the project directory:
-
-````bash
-cd rick_and_morty
+   ```bash
+   cd rick_and_morty
 
 3.  Install dependencies:
-```bash
-flutter pub get
+    ```bash
+    flutter pub get
 
 4.  Run the app:
-```bash
-flutter run
+    ```bash
+    flutter run
 
 # Resources
 Flutter Documentation: Learn more about Flutter and how to build apps.
