@@ -1,29 +1,57 @@
 # Rick and Morty Flutter App
 
-This Flutter project is a simple application that fetches and displays character information from the popular TV show Rick and Morty.
+This Flutter project is a simple application that fetches and displays character information from the popular TV show **Rick and Morty**.
 
+![Rick and Morty Screenshot](https://github.com/iamvedantp/rick_and_morty/assets/128803902/6760966c-d925-40bc-8e14-27332a19e488)
 
-![Screenshot_1714570125](https://github.com/iamvedantp/rick_and_morty/assets/128803902/6760966c-d925-40bc-8e14-27332a19e488)
-
-
+---
 
 ## Features
 
-- Fetches character data from the Rick and Morty API using GraphQL.
-- Displays character names, images, and status.
-- Shows loading indicator while fetching data.
-- Handles error cases gracefully.
+- **Character Fetching**: Fetches character data from the **Rick and Morty API** using **GraphQL**.
+- **Display Information**: Shows character names, images, and statuses (alive, dead, or unknown).
+- **Loading Indicator**: Displays a loading spinner while fetching data.
+- **Error Handling**: Gracefully handles and displays errors if something goes wrong.
 
-## Setup
+---
 
-To get started with this project, follow these steps:
+## Setup Instructions
 
-1. Clone this repository to your local machine.
-2. Ensure you have Flutter installed on your machine. If not, follow the instructions [here](https://flutter.dev/docs/get-started/install).
-3. Navigate to the project directory and run `flutter pub get` to install dependencies.
-4. Run the app on an emulator or physical device using `flutter run`.
+### Prerequisites
 
-## Resources
+- Flutter SDK installed on your system. ([Installation Guide](https://flutter.dev/docs/get-started/install))
+- A connected emulator or physical device for running the app.
 
-- [Flutter Documentation](https://docs.flutter.dev/) - Learn more about Flutter and how to build Flutter apps.
-- [Rick and Morty API](https://rickandmortyapi.com/graphql) - Explore the API used in this project.
+### Steps
+
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/iamvedantp/rick_and_morty.git
+   Navigate to the project directory:
+   bash
+   Copy
+   Edit
+   cd rick_and_morty
+   Install dependencies:
+   bash
+   Copy
+   Edit
+   flutter pub get
+   Run the app:
+   bash
+   Copy
+   Edit
+   flutter run
+   Resources
+   Flutter Documentation: Learn more about Flutter and how to build apps.
+   Rick and Morty API: Explore the GraphQL API used in this project.
+   Contribution
+   We welcome contributions! If you find a bug or have an idea for improvement:
+   ```
+
+Open an issue in the repository.
+Submit a pull request with your changes.
+
+#### License
+
+This project is licensed under the MIT License.
