@@ -2,7 +2,8 @@
 
 This Flutter project is a simple application that fetches and displays character information from the popular TV show **Rick and Morty**.
 
-![Rick and Morty Screenshot](https://github.com/iamvedantp/rick_and_morty/assets/128803902/6760966c-d925-40bc-8e14-27332a19e488)
+![Screenshot_1738065165](https://github.com/user-attachments/assets/ef8c1e30-b1e1-41c0-9aa4-f7ed56e98a84)
+
 
 ---
 
@@ -27,7 +28,7 @@ This Flutter project is a simple application that fetches and displays character
 1. Clone this repository:
    ```bash
    git clone https://github.com/iamvedantp/rick_and_morty.git
-   ```
+   
 2. Navigate to the project directory:
    ```bash
    cd rick_and_morty
