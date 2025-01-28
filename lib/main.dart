@@ -13,6 +13,7 @@ class RickAndMorty extends StatelessWidget {
   Widget build(BuildContext context) {
     return const MaterialApp(
       home: HomePage(),
+      debugShowCheckedModeBanner: false,
     );
   }
 }
@@ -24,8 +25,9 @@ class HomePage extends ConsumerWidget {
   Widget build(BuildContext context, WidgetRef ref) {
     return Scaffold(
       appBar: AppBar(
-        title: Alignment.center,
-        const Text("Characters"),
+        title: const Text("Characters"),
+        centerTitle: true,
+        backgroundColor: Colors.blueGrey,
       ),
       body: ref.watch(fetchCharactersProvider).maybeWhen(fetching: () {
         return const Center(
