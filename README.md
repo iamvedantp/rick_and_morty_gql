@@ -6,7 +6,7 @@ This Flutter project is a simple application that fetches and displays character
 
 ---
 
-## Features
+# Features
 
 - **Character Fetching**: Fetches character data from the **Rick and Morty API** using **GraphQL**.
 - **Display Information**: Shows character names, images, and statuses (alive, dead, or unknown).
@@ -15,43 +15,40 @@ This Flutter project is a simple application that fetches and displays character
 
 ---
 
-## Setup Instructions
+# Setup Instructions
 
-### Prerequisites
+# Prerequisites
 
 - Flutter SDK installed on your system. ([Installation Guide](https://flutter.dev/docs/get-started/install))
 - A connected emulator or physical device for running the app.
 
-### Steps
+# Steps
 
 1. Clone this repository:
    ```bash
    git clone https://github.com/iamvedantp/rick_and_morty.git
-   Navigate to the project directory:
-   bash
-   Copy
-   Edit
-   cd rick_and_morty
-   Install dependencies:
-   bash
-   Copy
-   Edit
-   flutter pub get
-   Run the app:
-   bash
-   Copy
-   Edit
-   flutter run
-   Resources
-   Flutter Documentation: Learn more about Flutter and how to build apps.
-   Rick and Morty API: Explore the GraphQL API used in this project.
-   Contribution
-   We welcome contributions! If you find a bug or have an idea for improvement:
    ```
+2. Navigate to the project directory:
 
-Open an issue in the repository.
-Submit a pull request with your changes.
+````bash
+cd rick_and_morty
+3.  Install dependencies:
+```bash
+flutter pub get
+4.  Run the app:
+```bash
+flutter run
 
-#### License
+# Resources
+Flutter Documentation: Learn more about Flutter and how to build apps.
+Rick and Morty API: Explore the GraphQL API used in this project.
+
+#   Contribution
+We welcome contributions! If you find a bug or have an idea for improvement:
+1. Open an issue in the repository.
+2. Submit a pull request with your changes.
+
+# License
 
 This project is licensed under the MIT License.
+````
