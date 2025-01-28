@@ -50,6 +50,5 @@ We welcome contributions! If you find a bug or have an idea for improvement:
 2. Submit a pull request with your changes.
 
 # License
-
 This project is licensed under the MIT License.
-````
+
