@@ -2,7 +2,7 @@
 
 This Flutter project is a simple application that fetches and displays character information from the popular TV show **Rick and Morty**.
 
-![Screenshot_1738065165](https://github.com/user-attachments/assets/ef8c1e30-b1e1-41c0-9aa4-f7ed56e98a84)
+![rick morty](https://github.com/user-attachments/assets/34f1c5e9-5b8a-428d-9e69-163fd83260ab)
 
 ---
 
